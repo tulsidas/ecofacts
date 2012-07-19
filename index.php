@@ -50,13 +50,14 @@
 
     <div class="container">
       <div class="hero-unit">
-        <h1>Hello, world!</h1>
+        <h1>Eco Facts</h1>
         <p>&nbsp;</p>
-        <p>Welcome to <strong>ecofacts</strong>, a small app to learn about energy consumption, climate change and what you can do about it.</p>
+        <p>Welcome to <strong>ecofacts</strong>, a small app to learn about energy consumption, climate change and what <strong>you</strong> can do about it.</p>
         <p>&nbsp;</p>
         <p>This is a reactive site! On the following pages, look for links <span class="TKMultiToggle">like this one</span> and try to click them or drag them!</p>
         <p>&nbsp;</p>
         <p>Start by choosing the country you live in (or any country you like, really)</p>
+        <small><b>ecofacts</b> doesn't work properly on IE browsers, try Chrome, Firefox or Opera</small>
         <p>&nbsp;</p>
          <div class="span5 offset3">
             <form class="form-horizontal control-group" id="countryForm" action="co2.php" method="POST">
@@ -285,7 +286,12 @@
 
       <hr>
 
-    </div> <!-- /container -->
-  </body>
-</html>
+   <center>
+      <div class="alert alert-info span6 offset2">
+      <p><span class="label label-important">new!</span> ecofacts won the <strong><a href="http://www.worldbank.org/en/news/2012/06/28/world-bank-announces-winners-apps-for-climate-competition">Apps for Climate</a></strong> competition!</p>
+      </div>
+   </center>
 
+   </div> <!-- /container -->
+   </body>
+</html>
