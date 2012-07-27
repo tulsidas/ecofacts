@@ -360,7 +360,7 @@
                            data-min="1" data-max="40"></span> 
                         kilometers per liter, that would mean that
                         <span data-var="ltc_saved_liters_per_day" data-format="metric_word liters" class="badge badge-info"></span>
-                        less of gas are would be used every single day, which in turn means saving
+                        less of gas would be used every single day, which in turn means saving
                         <span data-var="ltc_saved_co2_per_year" data-format="metric_word tons" class="badge badge-info"></span>
                         of CO<sub>2</sub> to be released into the atmosphere, every year.
                         <br/>
